@@ -2,6 +2,14 @@
 
 This repository is [ICFP Contest 2024](https://icfpcontest2024.github.io/)
 
+## Usage
+
+- install python
+- pip install jupyterlab requests
+- jupyter lab
+
+I 
+
 ## Test
 
 - hello
