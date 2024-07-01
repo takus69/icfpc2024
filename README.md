@@ -7,8 +7,9 @@ This repository is [ICFP Contest 2024](https://icfpcontest2024.github.io/)
 - install python
 - pip install jupyterlab requests
 - jupyter lab
+- Set Bearer token to cell 302(defined send_message function)
 
-I 
+I used jupyterlab for trial and error problem-solving. You can run cells.
 
 ## Test
 
